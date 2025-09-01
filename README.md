@@ -5,6 +5,14 @@ The purpose of this project was to improve my **front-end development skills** a
 
 ---
 
+## 📸 Preview
+
+![Amazon Clone Preview](./images/amazon-clone-screenshot.png)
+
+_(Replace the file path with your actual screenshot location, e.g., `./assets/preview.png`)_
+
+---
+
 ## 📑 Table of Contents
 
 - [About](#about)
@@ -67,7 +75,8 @@ Copy code
 
 🌐 Live Preview
 🚀 See the project in action:
-👉 Amazon Clone — Live Demo
+
+👉— <a href=""> Amazon Clone </a>
 
 🎯 Project Vision
 
@@ -75,7 +84,7 @@ Copy code
 
 2. Practice front-end design by cloning a real-world website.
 
-3. Improve CSS layout skills (flexbox, grid, <br>responsiveness).
+3. Improve CSS layout skills (flexbox, grid, responsiveness).
 
 4. Gain experience in building pixel-perfect UI clones.
 
@@ -89,5 +98,6 @@ This is a personal practice project, but suggestions are welcome! You can:
 3. Suggest better design practices.
 
 📜 License
-This project is created for educational purposes only.
-It is not affiliated with or endorsed by Amazon.
+
+    This project is created for educational purposes only.
+    It is not affiliated with or endorsed by Amazon.
