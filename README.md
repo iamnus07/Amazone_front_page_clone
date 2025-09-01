@@ -7,7 +7,7 @@ The purpose of this project was to improve my **front-end development skills** a
 
 ## 📸 Preview
 
-![Amazon Clone Preview](./images/amazon-clone-screenshot.png)
+![Amazon Clone Preview](./New%20folder/Screenshot%202025-09-01%20151650.png)
 
 _(Replace the file path with your actual screenshot location, e.g., `./assets/preview.png`)_
 
@@ -58,9 +58,6 @@ Amazone_front_page_clone/
 ├── style.css # Styling and layout
 ├── images/ # Assets like logos and banners
 └── README.md
-
-yaml
-Copy code
 
 ---
 
