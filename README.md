@@ -9,8 +9,6 @@ The purpose of this project was to improve my **front-end development skills** a
 
 ![Amazon Clone Preview](./New%20folder/Screenshot%202025-09-01%20151650.png)
 
-_(Replace the file path with your actual screenshot location, e.g., `./assets/preview.png`)_
-
 ---
 
 ## 📑 Table of Contents
